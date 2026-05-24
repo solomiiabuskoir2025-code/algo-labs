@@ -1,5 +1,5 @@
 import unittest
-from lab5 import count_islands_bfs   # імпорт з твого файлу
+from lab5 import count_islands_bfs   
 
 class TestCountIslandsBFS(unittest.TestCase):
     def test_example_matrix(self):
